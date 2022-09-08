@@ -1,4 +1,4 @@
-# Threat Actor Profiles
+# Threat Actor Tracking
 
 Collected from open source reporting. Associated groups are pulled from [MITRE's helpful group overview.](https://attack.mitre.org/groups/)However, note that due to various factors such as visbility, methodology, and reporting guidelines that threat actor activity can overlap or have differences between "associated" threat actor names.
 
