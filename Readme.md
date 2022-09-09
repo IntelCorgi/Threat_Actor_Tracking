@@ -1,6 +1,6 @@
 # Threat Actor Tracking
 
-Collected from open source reporting. Associated groups are pulled from [MITRE's helpful group overview.](https://attack.mitre.org/groups/)However, note that due to various factors such as visbility, methodology, and reporting guidelines that threat actor activity can overlap or have differences between "associated" threat actor names.
+Collected from open source reporting. Associated groups are pulled from [MITRE's helpful group overview.](https://attack.mitre.org/groups/) However, note that due to various factors such as visbility, methodology, and reporting guidelines that threat actor activity can overlap or have differences between "associated" threat actor names.
 
 Pull requests welcome!
 
@@ -14,8 +14,6 @@ Pull requests welcome!
 
 
 ## UNCs
-
-
 | UNC | Attribution | Profile(s) | Comments |
 | --- | ----------- | ---------- | -------- |
 | UNC2452 | Russia | [Mandiant](https://www.mandiant.com/resources/insights/uncategorized-unc-threat-groups) | "Mandiant Threat Intelligence assesses that UNC2452 activity aligns with nation-state priorities broadly and that the group’s targeting patterns are consistent with Russian strategic interests." **First Seen:** 12/2020, **Source Region:** Russia, **Targeted Regions:** 12, **Motivation:** Espionage, **Associated Malware:** BEACON, RAINDROP, SUNSHUTTLE, TEARDROP, **Sub actors:** 6   |
